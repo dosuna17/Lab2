@@ -8,7 +8,7 @@ import pandas as pd
 import datetime as dt
 
 
-#docstings de  prueba para hacer merge con main
+#docstings de  prueba para hacer merge con main , ajuste para probar el PR
 app = dash.Dash(
     __name__,
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
